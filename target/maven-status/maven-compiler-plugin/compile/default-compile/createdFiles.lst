@@ -1,0 +1,11 @@
+sv\example\factura\dto\FacturaRequest.class
+sv\example\factura\FacturaApiApplication.class
+sv\example\factura\dto\FacturaRequest$Item.class
+sv\example\factura\service\FacturaPdfService.class
+sv\example\factura\controller\FacturaController.class
+sv\example\factura\dto\MinisterioResponse.class
+sv\example\factura\controller\HealthController.class
+sv\example\factura\dto\FacturaRequest$Receptor.class
+sv\example\factura\util\HashUtil.class
+sv\example\factura\dto\FacturaRequest$Emisor.class
+sv\example\factura\dto\FacturaResponse.class
